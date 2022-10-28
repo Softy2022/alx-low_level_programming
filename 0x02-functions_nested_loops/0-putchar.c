@@ -5,17 +5,15 @@
 
 
 /**
+  *    main - Entry point of the program"
   *
-  *   * main - Entry point of the program"
+  *   
   *
-  *     *
-  *
-  *       * Return: Always returns 0(success)
+  *       Return: Always returns 0(success)
   *
   */
 
 int main(void)
-
 {
 
 		printf("_putchar\n");

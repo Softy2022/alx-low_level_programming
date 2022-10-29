@@ -2,7 +2,7 @@
 
 #include "main.h"
 
-/**
+/**  
   * main - Entry point of the program"   
   * Return: Always returns 0(success)
   */
